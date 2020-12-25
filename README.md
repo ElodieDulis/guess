@@ -1,6 +1,6 @@
 # guess
 
-In this game you have an unlimited number of guesses to find a magic number between 1 and 100. 
+In this game you have 6 attempts to find a magic number between 1 and 100. 
 
 You need python to use this amazing game. Enter in the command window : 
 ```
